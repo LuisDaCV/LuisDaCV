@@ -2,40 +2,49 @@
 
 
 ```
-luisdacv@archlinux  ~  neofetch
-                   -`                    luisdacv@archlinux
-                  .o+`                   ------------------
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  Host: Asus VivoBook
-               `+oooooo:                 Kernel: 6.15.7-arch1-1
-               -+oooooo+:                Uptime: 3h 24m
-             `/:-:++oooo+:              Packages: 1031 (pacman), 7 (flatpak)
-            `/++++/+++++++:             Shell: zsh 5.9
-           `/++++++++++++++:            Resolution: 1920x1080
-          `/+++ooooooooooooo/`          WM: Hyprland
-         ./ooosssso++osssssso+`         Theme: One Dark
-        .oossssso-````/ossssss+`        Icons: Tela-circle-purple
-       -osssssso.      :ssssssso.       Terminal: kitty
-      :osssssss/        osssso+++.      Terminal Font: JetBrainsMono Nerd Font
-     /ossssssss/        +ssssooo/-      CPU: Intel i7-9750H (12) @ 4.500GHz
-   `/ossssso+/:-        -:/+osssso+-    GPU: NVIDIA GTX 1650 Max-Q / Intel UHD 630
-  `+sso+:-`                 `.-/+oso:   Memory: 4950MiB / 15855MiB
+                  -`                     ARCH LINUX                       luisdacv
+                  .o+`                   ────────────────────────────────────────────────
+                 `ooo/                  
+                `+oooo:                    Hora Local:   Bolivia (UTC-4)
+               `+oooooo:                   Shell:        zsh
+               -+oooooo+:                  Rol:          Ingeniero de Sistemas
+             `/:-:++oooo+:                 GitHub:       https://github.com/LuisDaCV
+            `/++++/+++++++:                Contacto:     danlu18102002@gmail.com
+           `/++++++++++++++:               Estado:       Siempre aprendiendo...
+          `/+++ooooooooooooo/`          
+         ./ooosssso++osssssso+`        
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
 ```
 
 
 ## Tecnologías que uso
-| [NestJS](https://nestjs.com) | [Python](https://python.org) | [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) |
-|-----------------------------|------------------------------|---------------------------------------------------------------|
-| [Java](https://www.java.com) | [TypeScript](https://www.typescriptlang.org) | [PHP](https://www.php.net) |
-| [Laravel](https://laravel.com) | [React](https://react.dev) | [SQLite](https://sqlite.org) |
-| [MySQL](https://www.mysql.com) | [Docker](https://www.docker.com) | [Linux](https://archlinux.org) |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
 
 ## Sobre mí
 
 - Ingeniero en Sistemas  
-- Autónomo  
+- autodidacta  
 - Siempre buscando nuevos retos  
-- Usuario de Linux... btw
+- Usuario de Linux... btw😉
