@@ -1,5 +1,3 @@
-# 👋 Bienvenido al perfil de Luis Daniel Colque Vásquez
-
 
 ```
                   -`                     ARCH LINUX                       luisdacv
