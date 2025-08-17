@@ -45,4 +45,3 @@
 - Ingeniero en Sistemas  
 - autodidacta  
 - Siempre buscando nuevos retos  
-- Usuario de Linux... btw😉
