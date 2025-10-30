@@ -64,14 +64,14 @@
 </p>
 
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy **Ingeniero en Sistemas** con una gran pasión por la tecnología.  
 Me considero **autodidacta** y disfruto aprender cosas nuevas cada día.  
 
-🚀 Los retos son mi combustible: si parece difícil, seguro que vale la pena intentarlo.  
-💡 Me motiva crear soluciones que realmente aporten valor, explorando nuevas herramientas y enfoques.  
-😅 A veces rompo cosas (para luego arreglarlas, claro) porque creo que la mejor forma de aprender es experimentando.  
+Los retos son mi combustible: si parece difícil, seguro que vale la pena intentarlo.  
+Me motiva crear soluciones que realmente aporten valor, explorando nuevas herramientas y enfoques.  
+A veces rompo cosas (para luego arreglarlas, claro) porque creo que la mejor forma de aprender es experimentando.  
 
 Cuando no estoy programando, probablemente estoy **descubriendo nuevas ideas, resolviendo problemas curiosos**.  
 Siempre busco crecer, compartir y mantener viva esa chispa de entusiasmo por la tecnología.
